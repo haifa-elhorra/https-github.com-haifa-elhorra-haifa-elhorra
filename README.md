@@ -1,60 +1,80 @@
-<div align="center">🛡️ Haifa ELHORRA | Cybersecurity Specialist in Training</div>
-<div align="center">🔍 Threat Hunter | SOC Analyst | Penetration Tester | Secure Infrastructure Architect</div>
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Zero+Trust+Advocate+%7C+NIST+Framework+Implementer;From+Packet+Analysis+to+APT+Simulation;Building+Cyber+Ranges+Like+It's+My+Job;Because+Security+Isn't+a+Feature—It's+a+Mindset&center=true&width=650&height=45&color=5D6D7E&vCenter=true&pause=1000&font=Fira+Code"> </p>
-🔐 Core Competencies
-Offensive Security
+<h1 align="center">Hi there 👋 I'm Haifa Elhorra</h1>
 
-bash
-# Simulating adversaries with:
-└─$ metasploit-framework  
-└─$ cobaltstrike  
-└─$ atomic-red-team  
-Defensive Operations
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Hands-on+learner+with+a+lab+mindset;Building%2C+breaking%2C+learning%2C+repeating...;Always+up+for+a+tech+challenge+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-python
-# Monitoring infrastructure with:
-SOC_stack = ["Wazuh", "ELK", "Hive/Cortex", "MISP"]  
-honeypots = ["Cowrie → Prometheus/Grafana"]  
-Cloud & Network Security
+---
 
-yaml
-# Enforcing least privilege on:
-AWS_IAM:
-  - Custom JSON Policies  
-  - Tag-Based Access Control  
-Network_Design:  
-  - VLANs/HSRP  
-  - IPsec VPNs  
-  - OSPF/PFSense  
-🖥️ Technical Arsenal
-🛡️ Cybersecurity Tooling
-Domain	Tools
-Threat Intel	https://img.shields.io/badge/MISP-1A5276?style=flat https://img.shields.io/badge/OpenCTI-2874A6?style=flat https://img.shields.io/badge/YARA-7D3C98?style=flat
-Pen Testing	https://img.shields.io/badge/Metasploit-E74C3C?style=flat https://img.shields.io/badge/Sliver-2C3E50?style=flat https://img.shields.io/badge/Hydra-3498DB?style=flat
-Network Security	https://img.shields.io/badge/Wireshark-2ECC71?style=flat https://img.shields.io/badge/Zeek-16A085?style=flat https://img.shields.io/badge/Nmap-E67E22?style=flat
-☁️ Cloud & Infrastructure
-diff
-+ AWS IAM Architect | VMware ESXi | Docker Hardening  
-+ Prometheus/Grafana Dashboards | ELK Stack  
-! Cisco/Huawei Network Simulations (Packet Tracer/eNSP)  
-📜 Frameworks & Standards
-tex
-\documentclass{article}
-\begin{document}
-\section*{Implemented}
-\begin{itemize}
-\item NIST CSF \textbf{(Identify → Respond)}
-\item ISO/IEC 27001 Controls
-\item MITRE ATT\&CK TTP Mapping
-\end{itemize}
-\end{document}
-📚 Continuous Learning
-diff
-! Currently Deep-Diving Into:
-- Purple Teaming w/ Atomic Red Team  
-- Cloud-Native Detection Engineering  
-- Lockheed Martin Cyber Kill Chain  
-📫 Contact
-<p align="center"> <a href="https://www.linkedin.com/in/haifaelhorra"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>  <a href="mailto:horrahayfa21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>  <a href="https://github.com/haifa-elhorra"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a> </p>
-"Security is a process, not a product. I build processes that outlive threats."
+## 👩‍💻 About Me
 
+🎓 Recent Telecommunications graduate specialized in **network security and system protection**  
+🔐 Passionate about **cybersecurity**, **risk management**, **threat hunting**, and **incident response**  
+💡 I build my own labs to simulate attacks, test defenses, and gain real-world experience  
+📍 Based in Tunisia, fluent in Arabic, French, and English  
+🌱 Currently learning **cloud security** and **AWS IAM**  
+⚡ Fun fact: I built my own malware lab just to see what keyloggers feel like in action 😎
+
+---
+
+## 🔧 Tools & Technologies
+
+| Category | Tools |
+|---------|-------|
+| **Security & Threat Detection** | Wazuh, YARA, VirusTotal, MISP, Hive, Cortex |
+| **Pentesting & Malware Analysis** | Metasploit, Hydra, Zeek, Wireshark, Suricata, pwncat |
+| **Monitoring & Visualization** | Prometheus, Grafana, Kibana |
+| **Virtualization & Cloud** | Docker, VMware, AWS |
+| **Programming** | Python, Bash, PowerShell, Java, C, PHP |
+| **Web & Scripting** | HTML, CSS, JavaScript |
+| **Databases** | MySQL, SQLite |
+| **Risk Management** | SimpleRisk, CVSS, OWASP, DREAD |
+
+---
+
+## 🚀 My Projects (highlights)
+
+- 🧪 **CI/CD Security Lab** with Jenkins + Metasploit  
+- 🐍 **Keylogger in Python** (educational malware project)  
+- 📈 **Cowrie Honeypot** with Prometheus & Grafana  
+- 🔐 **AWS IAM Access Control Lab**  
+- 🧠 **Machine Learning for Malware & Phishing Detection**  
+- 📊 **Risk Scoring & Compliance with SimpleRisk**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haifa-elhorra&show_icons=true&theme=radical" alt="Haifa GitHub Stats" />
+</p>
+
+---
+
+## 🐍 Snake on my GitHub contribution graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/haifa-elhorra/haifa-elhorra/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 📈 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=haifa-elhorra&style=flat-square&color=blueviolet" alt="Profile Views" />
+</p>
+
+---
+
+## 🔗 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/haifaelhorra"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:horrahayfa21@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/haifa-elhorra"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" /></a>
+</p>
+
+---
+
+> 🧠 *"I don't just read about cybersecurity — I build it, test it, break it, and understand it."*
