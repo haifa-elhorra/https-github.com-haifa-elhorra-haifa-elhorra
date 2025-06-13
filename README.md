@@ -1,54 +1,104 @@
-<h1 align="center">Hi, I’m Haifa 🌸</h1>
-<p align="center">🔐 Cybersecurity Explorer | Network Ninja | Curious by Design</p>
+<h1 align="center">Hi there, I’m Haifa Elhorra 🌸</h1>
+<p align="center">
+  👩‍💻 Cybersecurity Enthusiast | 🛡️ Risk-aware Technologist | 💡 Passionate Learner<br>
+  🚀 Always exploring, always experimenting — from networks to malware detection.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Student+%F0%9F%94%90;Hands-on+learner+with+a+tech-lab+spirit+%F0%9F%9A%80;Curious+.+Creative+.+Committed+%F0%9F%92%AA;Always+building+and+sharing+my+journey!&center=true&width=450&height=45&color=FFA4C4&vCenter=true&pause=1000">
+</p>
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=435&lines=Passionate+about+cybersecurity+🔐;Always+learning+new+things+🚀;Creating+cool+labs+with+Docker+🐳;Let's+secure+the+future+together+✨" align="center"/>
+## 💁‍♀️ About Me
+
+🎓 I’m a young telecommunications graduate and cybersecurity student from Tunisia with a deep passion for **network security**, **threat detection**, and **building real-world lab environments**.  
+💡 I thrive in technical challenges and love diving into new technologies, especially when I can learn by doing — breaking, fixing, scripting, and documenting every step.
+
+⚙️ My ultimate goal?  
+**To leave a lasting mark in the cybersecurity field by creating practical solutions and inspiring others to take security seriously.**
+
+🌍 Languages I speak: **Arabic**, **French**, and **English**  
+🧠 Learning Style: **Hands-on, curious, creative**  
+🎨 Aesthetic: **Techy with a girly pastel twist**
 
 ---
 
-### 💻 Technical Skills
+## 🛠️ Skills & Tools
 
-#### 🛡️ **Cybersecurity & Threat Analysis**
-![Wazuh](https://img.shields.io/badge/Wazuh-f9d4e5?style=flat-square&logoColor=black)
-![YARA](https://img.shields.io/badge/YARA-ffd1dc?style=flat-square&logoColor=black)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-f2aedc?style=flat-square&logoColor=black)
-![MISP](https://img.shields.io/badge/MISP-f2aecf?style=flat-square&logoColor=black)
-![Hive](https://img.shields.io/badge/TheHive-e3accf?style=flat-square&logoColor=black)
-![Cortex](https://img.shields.io/badge/Cortex-fad9e5?style=flat-square&logoColor=black)
+### 🔐 Cybersecurity & Threat Intelligence
+![Wazuh](https://img.shields.io/badge/Wazuh-f9d4e5?style=flat-square)
+![YARA](https://img.shields.io/badge/YARA-ffd1dc?style=flat-square)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-f2aedc?style=flat-square)
+![MISP](https://img.shields.io/badge/MISP-f2aecf?style=flat-square)
+![Hive](https://img.shields.io/badge/TheHive-e3accf?style=flat-square)
+![Cortex](https://img.shields.io/badge/Cortex-fad9e5?style=flat-square)
 
-#### 🧪 **Penetration Testing & Analysis**
-![Wireshark](https://img.shields.io/badge/Wireshark-fadce2?style=flat-square&logoColor=black)
-![Nmap](https://img.shields.io/badge/Nmap-f5b6cc?style=flat-square&logoColor=black)
-![Metasploit](https://img.shields.io/badge/Metasploit-fcd2d2?style=flat-square&logoColor=black)
-![Hydra](https://img.shields.io/badge/Hydra-f2d1e8?style=flat-square&logoColor=black)
-![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-f8cad0?style=flat-square&logoColor=black)
-![pwncat](https://img.shields.io/badge/pwncat-f9c2cf?style=flat-square&logoColor=black)
+### 🧪 Pentesting & Malware Analysis
+![Wireshark](https://img.shields.io/badge/Wireshark-fadce2?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-f5b6cc?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-fcd2d2?style=flat-square)
+![Hydra](https://img.shields.io/badge/Hydra-f2d1e8?style=flat-square)
+![pwncat](https://img.shields.io/badge/pwncat-f9c2cf?style=flat-square)
+![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-fcd9e6?style=flat-square)
 
-#### ⚙️ **Automation & Scripting**
-![Python](https://img.shields.io/badge/Python-FFD1DC?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-fcd2d2?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-f5c1e0?style=flat-square&logo=powershell&logoColor=white)
+### 🐳 Infrastructure, Lab Building & Monitoring
+![Docker](https://img.shields.io/badge/Docker-A1CAF1?style=flat-square&logo=docker)
+![VMware](https://img.shields.io/badge/VMware-f2aedc?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-f5b6cc?style=flat-square)
+![Prometheus](https://img.shields.io/badge/Prometheus-f2aedc?style=flat-square)
+![Grafana](https://img.shields.io/badge/Grafana-f9d4e5?style=flat-square)
+![Kibana](https://img.shields.io/badge/Kibana-ffb6c1?style=flat-square)
 
-#### 🐳 **Lab & Infrastructure**
-![Docker](https://img.shields.io/badge/Docker-A1CAF1?style=flat-square&logo=docker&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-f2aedc?style=flat-square&logo=vmware&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-f5b6cc?style=flat-square&logo=amazonaws&logoColor=white)
-
-#### 📊 **Monitoring & Visualization**
-![Prometheus](https://img.shields.io/badge/Prometheus-f2aedc?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-f9d4e5?style=flat-square&logo=grafana&logoColor=orange)
-![Kibana](https://img.shields.io/badge/Kibana-ffb6c1?style=flat-square&logo=kibana&logoColor=black)
-
-#### 🌐 **Network & OS**
-![Linux](https://img.shields.io/badge/Linux-ffb6c1?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-f5c1e0?style=flat-square&logo=ubuntu&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-e3accf?style=flat-square&logo=cisco&logoColor=white)
-![OSPF](https://img.shields.io/badge/OSPF-f9c2cf?style=flat-square&logoColor=black)
+### 🧰 Scripting & Programming
+![Python](https://img.shields.io/badge/Python-FFD1DC?style=flat-square&logo=python)
+![Bash](https://img.shields.io/badge/Bash-fcd2d2?style=flat-square)
+![PowerShell](https://img.shields.io/badge/PowerShell-f5c1e0?style=flat-square)
+![C](https://img.shields.io/badge/C-ffb6c1?style=flat-square)
+![Java](https://img.shields.io/badge/Java-fad9e5?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-ffe4ec?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-fcc9dd?style=flat-square)
 
 ---
 
-### 🌸 Let’s Connect
+## 🌟 Featured Projects
+
+🔎 **Malware & Phishing URL Detection with Machine Learning**  
+Built a complete detection pipeline using ML & DL for PE files and malicious URLs. Includes real-time scanning, feature extraction, and model training — all deployed in a hands-on lab.  
+*Tools used:* `Python`, `Jupyter`, `scikit-learn`, `Keras`
+
+🧪 **CI/CD Pentest Lab with Jenkins**  
+Created a secure DevSecOps lab to simulate attacks on CI/CD pipelines, using Metasploit to demonstrate real vulnerabilities. Documented and proposed remediation strategies.  
+*Focus:* CI/CD security + attack simulation
+
+🐍 **Custom Keylogger (for educational use)**  
+Built a keylogger using `pynput` to better understand malware behavior and Python’s low-level capabilities.  
+*Takeaway:* Learning-by-breaking is powerful when done responsibly!
+
+📈 **Cowrie Honeypot Monitoring with Prometheus & Grafana**  
+Logged and visualized attack data from Cowrie using a custom exporter and rich dashboards.  
+*Focus:* Log analysis + data storytelling in cybersecurity.
+
+🔐 **IAM Access Control on AWS**  
+Configured IAM roles and policies to enforce least privilege, tagging, and secure segmentation across dev and prod.  
+*Focus:* Practical cloud security fundamentals.
+
+🧠 **Risk Management with SimpleRisk**  
+Deployed SimpleRisk, added custom scoring systems (OWASP, CVSS, DREAD), and documented real use cases.  
+*Focus:* Risk identification + scoring logic
+
+---
+
+## 💡 What I’m Learning Now
+
+🌩️ Advanced cloud security (AWS, multi-account strategy)  
+📊 Better visualization of cyber data using dashboards  
+🧬 Threat modeling + red/blue teaming  
+🐾 Creating custom lab environments for malware behavior studies
+
+---
+
+## 📫 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/haifaelhorra"><img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -58,4 +108,5 @@
 
 ---
 
-> 🌷 *“I don't just analyze traffic—I make it beautiful, safe, and traceable.”*
+> 💬 _“Security isn't just a job — it's a responsibility, an art, and a lifelong learning adventure.”_
+
